@@ -9,24 +9,21 @@ labels: ["task"]
 * **Objective:** [Briefly describe what needs to be achieved]
 * **Priority:** [High / Medium / Low]
 
+## 👤 User Story
+* **As a:** [role]  
+* **I need:** [function]  
+* **So that:** [benefit]  
+
 ## 📋 Action Items & Deliverables
 | Deliverable / Action Step | Owner (Single Person) | Deadline | Status |
 | :--- | :--- | :--- | :--- |
 | [Specific task description] | @[github-username] | YYYY-MM-DD | Open |
 
-## ⚠️ Notes, Risks & Dependencies
-* **Blockers:** [Any dependencies or prerequisites]
-* **Additional Context:** [Links, specs, or background info]
- **As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
-   
- ### Details and Assumptions
- * [document what you know]
-   
- ### Acceptance Criteria  
-   
- ```gherkin
- Given [some context]
- When [certain action is taken]
- Then [the outcome of action is observed]
+## 🔍 Details and Assumptions
+* [document what you know]
+
+## ✅ Acceptance Criteria  
+```gherkin
+Given [some context]
+When [certain action is taken]
+Then [the outcome of action is observed]
